@@ -1,5 +1,9 @@
 # Problem Statement & Project Scope
 
+##Problem Statement
+
+A modular, interactive command-line implementation of Blackjack in Python featuring dynamic Ace scoring, programmed dealer, and a consistent betting bankroll system.
+
 ## Overview
 The goal of this project is to build a robust, text-based command-line implementation of the classic casino card game, **Blackjack**, using Python. The application handles standard game rules, card value logic (including dynamic Ace adjustments between 1 and 11), dealer AI behavior, and an integrated credit/betting management loop.
 
