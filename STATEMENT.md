@@ -1,6 +1,6 @@
 # Problem Statement & Project Scope
 
-##Problem Statement
+## Problem Statement
 
 A modular, interactive command-line implementation of Blackjack in Python featuring dynamic Ace scoring, programmed dealer, and a consistent betting bankroll system.
 
