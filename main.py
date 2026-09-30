@@ -119,4 +119,3 @@ while True:
         if credit==0:
             print("Sorry no credits left")
             break
-
