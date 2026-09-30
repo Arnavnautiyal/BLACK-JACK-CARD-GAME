@@ -5,8 +5,8 @@ blackjack-repo/
 │   ├── display_game.py
 │   └── play_blackjack.py
 ├── .gitignore
-└── LICENSE
-└── PLAINTEXT.txt  
-└── README.md
-└── STATEMENT.md
+├── LICENSE
+├── PLAINTEXT.txt  
+├── README.md
+├── STATEMENT.md
 └── main.py
