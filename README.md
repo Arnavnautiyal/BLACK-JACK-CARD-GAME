@@ -18,6 +18,6 @@ A clean, interactive console-based implementation of Blackjack featuring dynamic
 Clone the repository and run the main script from your terminal:
 
 ```bash
-git clone https://github.com/your-username/blackjack-python.git
+git clone https://github.com/Arnavnautiyal/blackjack-python.git
 cd blackjack-python
 python main.py
