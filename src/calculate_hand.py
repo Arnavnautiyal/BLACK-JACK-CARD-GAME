@@ -1,7 +1,4 @@
-from src.deck import CARD_VALUES
-
 def calculate_hand(hand):
-    """Calculates the total value of a hand, dynamically adjusting Aces from 11 to 1 if needed."""
     total = sum([CARD_VALUES[card] for card in hand])
     aces = hand.count('A')
     while total > 21 and aces > 0:
