@@ -2,7 +2,7 @@
 
 # Command-Line Blackjack in Python
 
-A clean, interactive console-based implementation of Blackjack featuring dynamic Ace handling, automated dealer AI, and persistent bankroll/bet management.
+A clean, interactive console-based implementation of Blackjack featuring dynamic Ace handling, programmed dealer , and accurate track of credit roll/bet management.
 
 ## Features
 - **Full Rules Logic**: Handles Blackjack states on deal, player busts, dealer draws, and tie settlements.
